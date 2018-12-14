@@ -1,0 +1,423 @@
+[
+  {
+    "question": "While sitting in a coffee shop you are most likely to...",
+    "answers": [
+      {
+        "text": "read a book",
+        "value": 1
+      },
+      {
+        "text": "study for classes",
+        "value": 2
+      },
+      {
+        "text": "sit and think with headphones on",
+        "value": 3
+      },
+      {
+        "text": "attempt to talk to person next to you because of your shared interests",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "question": "At a party...",
+    "answers": [
+      {
+        "text": "Mingling",
+        "value": 4
+      },
+      {
+        "text": "Texting a friend",
+        "value": 2
+      },
+      {
+        "text": "Standing in a corner",
+        "value": 1
+      },
+      {
+        "text": "Talking to a few people",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "question": "If your best friend texts you for your homework, you are more likely to...",
+    "answers": [
+      {
+        "text": "Ignore that friend",
+        "value": 2
+      },
+      {
+        "text": "If that friend is walking towards you, you walk away",
+        "value": 1
+      },
+      {
+        "text": "Send them all your answers",
+        "value": 4
+      },
+      {
+        "text": "Send,'in a sec' and never reply ",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "question": "Your friends would most likely describe you as...",
+    "answers": [
+      {
+        "text": "Thoughtful",
+        "value": 1
+      },
+      {
+        "text": "Analytical ",
+        "value": 2
+      },
+      {
+        "text": "Hilarious",
+        "value": 3
+      },
+      {
+        "text": "Ambitious",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "question": "If you got a bad score on a test you...",
+    "answers": [
+      {
+        "text": "Keep it private (that's my business)",
+        "value": 1
+      },
+      {
+        "text": "High five the guy next to you who got the same score",
+        "value": 4
+      },
+      {
+        "text": "Cry (I'm never getting into college)",
+        "value": 2
+      },
+      {
+        "text": "Shrug it off and try to do better next time",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "question": "If given the opportunity to trade lives with a superhero, they would be",
+    "answers": [
+      {
+        "text": "Wonder Woman",
+        "value": 3
+      },
+      {
+        "text": "Scarlet Witch",
+        "value": 2
+      },
+      {
+        "text": "Quicksilver",
+        "value": 1
+      },
+      {
+        "text": "Iron Man",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "question": "Your spirit animal is closest to...",
+    "answers": [
+      {
+        "text": "Tree Frog",
+        "value": 1
+      },
+      {
+        "text": "Wolf",
+        "value": 3
+      },
+      {
+        "text": "Kangaroo",
+        "value": 2
+      },
+      {
+        "text": "Dragon",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "question": "Your favorite subject in school is...",
+    "answers": [
+      {
+        "text": "Math",
+        "value": 3
+      },
+      {
+        "text": "History",
+        "value": 2
+      },
+      {
+        "text": "English",
+        "value": 4
+      },
+      {
+        "text": "Science",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": "You had a week off from school, you are more likely to...",
+    "answers": [
+      {
+        "text": "Sleep 12 hours a day",
+        "value": 1
+      },
+      {
+        "text": "Watch Netflix and finish watching all seasons you missed",
+        "value": 3
+      },
+      {
+        "text": "Go out with friends ",
+        "value": 4
+      },
+      {
+        "text": "Study",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "question": "In your friend group you are the...",
+    "answers": [
+      {
+        "text": "Mom/Dad",
+        "value": 1
+      },
+      {
+        "text": "Planner",
+        "value": 2
+      },
+      {
+        "text": "Spontaneous one",
+        "value": 3
+      },
+      {
+        "text": "Troublemaker",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "question": "You’ve been caught cheating on a test, your response is...",
+    "answers": [
+      {
+        "text": "I didn't have a choice, I had to pass this test.",
+        "value": 2
+      },
+      {
+        "text": "I don't care what you think, I am not a cheater.",
+        "value": 1
+      },
+      {
+        "text": "It was to help my friend.",
+        "value": 3
+      },
+      {
+        "text": "Yeah, and I'll most likely do it again.",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "question": "In a horror movie, you would be...",
+    "answers": [
+      {
+        "text": "The last survivor",
+        "value": 4
+      },
+      {
+        "text": "The first to die",
+        "value": 1
+      },
+      {
+        "text": "The killer",
+        "value": 3
+      },
+      {
+        "text": "The one who escapes",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "question": "Choose a song...",
+    "answers": [
+      {
+        "text": "’What makes you beautiful'- One Direction",
+        "value": 3
+      },
+      {
+        "text": "'1-800-273-8255'- Logic",
+        "value": 1
+      },
+      {
+        "text": "'Life is a Highway'- Rascal Flatts",
+        "value": 4
+      },
+      {
+        "text": "'Do I Wanna Know'- Arctic Monkeys",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "question": "'If your were stranded in an island, you would take... '",
+    "answers": [
+      {
+        "text": "Your phone",
+        "value": 1
+      },
+      {
+        "text": "Books",
+        "value": 2
+      },
+      {
+        "text": "The most cozy blanket you own",
+        "value": 3
+      },
+      {
+        "text": "Food",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "question": "If you could only live one more day, you'd...",
+    "answers": [
+      {
+        "text": "Spend it with family ",
+        "value": 2
+      },
+      {
+        "text": "Blow all your money on everything you've ever wanted ",
+        "value": 4
+      },
+      {
+        "text": "Go skydiving",
+        "value": 3
+      },
+      {
+        "text": "Binge watch every show on your queue",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": "In the realm of Harry Potter, you are most like...",
+    "answers": [
+      {
+        "text": "Hermione",
+        "value": 4
+      },
+      {
+        "text": "Nevel",
+        "value": 1
+      },
+      {
+        "text": "Draco",
+        "value": 2
+      },
+      {
+        "text": "Harry",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "question": "Pick a vacation spot...",
+    "answers": [
+      {
+        "text": "Hawaii",
+        "value": 4
+      },
+      {
+        "text": "Iceland",
+        "value": 2
+      },
+      {
+        "text": "New York",
+        "value": 1
+      },
+      {
+        "text": "Australia",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "question": "Your best friend is most likely to be known as...",
+    "answers": [
+      {
+        "text": "The confident ",
+        "value": 2
+      },
+      {
+        "text": "The adventurer",
+        "value": 3
+      },
+      {
+        "text": "The rebel",
+        "value": 4
+      },
+      {
+        "text": "The crybaby",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": "A hashtag to describe your life would be...",
+    "answers": [
+      {
+        "text": "#blessed",
+        "value": 2
+      },
+      {
+        "text": "#livinmydream",
+        "value": 3
+      },
+      {
+        "text": "stressed",
+        "value": 1
+      },
+      {
+        "text": "#itswhatever",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "question": "Choose a brand",
+    "answers": [
+      {
+        "text": "Nike",
+        "value": 2
+      },
+      {
+        "text": "Adidas",
+        "value": 3
+      },
+      {
+        "text": "Vans",
+        "value": 1
+      },
+      {
+        "text": "Converse",
+        "value": 4
+      }
+    ]
+  }
+]
+
